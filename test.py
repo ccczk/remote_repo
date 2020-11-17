@@ -1,2 +1,2 @@
 #!/usr/bin/python
-print("hello  ccczk")
+print("hello  czk")
